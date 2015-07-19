@@ -1,4 +1,5 @@
 include 'demo'
 include 'configuration-example'
+include 'spring-cloud-client'
 rootProject.name = 'springboot'
 
